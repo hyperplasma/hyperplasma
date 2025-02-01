@@ -1,5 +1,5 @@
-<a href="https://github.com/hyperplasma/Hyplus">Main Page</a>
+<a href="https://github.com/hyperplasma/Hyplus"><img src="https://img.shields.io/badge/Main%20Page-blue
+" alt="Main Page"></a>
 
-![Akira's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperplasma&layout=compact&hide_border=true&langs_count=10)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperplasma&layout=compact&hide_border=true&langs_count=10">Most used languages</a>
 
-![LeetCode Stats](https://stats-cards-nu.vercel.app/api?username=Akira37R&type=leetcode&cn=true)

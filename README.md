@@ -2,18 +2,4 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperplasma&layout=compact&hide_border=true&langs_count=10)
 
-<center>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="ok">
-<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="ok">
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="ok">
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" alt="ok">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="ok">
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="ok">
-<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="ok">
-</center>
+<center><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="ok"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="ok"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="ok"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" alt="ok"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="ok"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="ok"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="ok"></center>
